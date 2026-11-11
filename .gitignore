@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor
+.vscode/
+
+# Audio stays on your computer, never in the repository
+*.wav
+*.mp3
+*.flac
+*.ogg
+library/
